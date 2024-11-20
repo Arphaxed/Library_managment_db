@@ -48,3 +48,6 @@ I created this project as part of a database design exercise to demonstrate my u
    ```sql
    CREATE DATABASE IF NOT EXISTS LibraryDB;
    USE LibraryDB;
+
+   ![Alt text](libraraydb_EER diagram.JPGg)
+
