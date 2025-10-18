@@ -3,6 +3,7 @@
 
 ## Overview
 
+
 This is a simple library management system database designed to manage books, authors, members, loans, librarians, and sections within a library. It helps to keep track of which books are available, which members have borrowed them, and the librarians responsible for managing the library's operations.
 
 I created this project as part of a database design exercise to demonstrate my understanding of relational database concepts, foreign keys, and normalization. It also highlights how I manage relationships between entities such as books, authors, and members, while ensuring data integrity using foreign key constraints.
